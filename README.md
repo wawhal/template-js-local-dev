@@ -1,4 +1,4 @@
 ```
 npm ci
-node template.js
+node typescript-express.template.js
 ```
