@@ -1,6 +1,6 @@
 ## End to end  workflow
 
-### STEP 2. Fork the `hasura/scaffolds` repo
+### STEP 1 Fork the `hasura/scaffolds` repo
 
 Put this repo as environment variable:
 
