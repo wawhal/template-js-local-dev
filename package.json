@@ -1,0 +1,16 @@
+{
+  "name": "template-js-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-codegen/core": "^1.9.1",
+    "@graphql-codegen/typescript": "^1.9.1",
+    "graphql": "^14.5.8"
+  }
+}
